@@ -1,5 +1,5 @@
 {
-  "homepage": "https://joshbouy.github.io/coronatracker/",
+  "homepage": "http://joshbouy.github.io/coronatracker/",
   "name": "coronatracker",
   "version": "0.1.0",
   "private": true,
@@ -26,7 +26,7 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": "Corona Tracker"
+    "extends": "React App"
   },
   "browserslist": {
     "production": [
