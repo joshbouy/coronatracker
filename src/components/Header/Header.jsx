@@ -9,10 +9,10 @@ const Header = ()=>{
         <h4>Try it out!</h4>
         <ul className={styles.dashed}>
             <li>
-                You can change the graph
+                Click the graph
             </li>
             <li>
-                You can change the countries
+                Change the Countries
             </li>
         </ul>
         </div>
